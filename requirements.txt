@@ -4,4 +4,4 @@ uvicorn
 numpy
 streamlit
 
-For Dataset refer to : "https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset"
+
