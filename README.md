@@ -10,3 +10,5 @@ It offers a user-friendly interface where users can input text comments and rece
 
 *Scalable Architecture:
 Built with scalability in mind, the app can handle large volumes of comments efficiently.
+
+For Dataset refer to : "https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset"
